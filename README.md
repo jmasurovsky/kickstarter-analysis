@@ -59,6 +59,7 @@ Outliers?
 
 	2. A possible limitation of the dataset is the lack of context for why a theater campaign outcome failed based on their launch date, especially during the month of May when the highest number of successful theater Kickstarters and the highest failed. Another limitation could be for deliverable 1, there is no data for canceled theater shows that launched in October, but that does not guarantee a show launching in October will never be canceled.
 
+	3. Lastly, instructions for the assignment were to label a sheet "Theater Outcomes Based on Launch Date" and was limited by the Excel character limit and had to rename it "Theater Outcomes by Launch Date".
 
 - What are some other possible tables and/or graphs that we could create?
 	
