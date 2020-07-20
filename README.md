@@ -28,7 +28,9 @@ The COUNTIFS() function was used to calculate the # of successful, failed, and c
 ### Challenges and Difficulties Encountered
 
 A challenge I encountered for Deliverable 1, was initially not understanding why the YEAR() function was showing a date (see example below), and that was because the Year column was set to "short date", therefore it had to be converted to "general". 
+	
 	![img_2](https://github.com/jmasurovsky/kickstarter-analysis/blob/master/Resources/Years_challenge_example.png)
+
 
 The challenge I had in Deliverable 2, was repetitive writing and editing the COUNTIFS() function for each different goal and outcome.  
 
