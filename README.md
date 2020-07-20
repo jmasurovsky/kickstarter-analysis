@@ -29,7 +29,7 @@ The COUNTIFS() function was used to calculate the # of successful, failed, and c
 
 A challenge I encountered for Deliverable 1, was initially not understanding why the YEAR() function was showing a date (see example below), and that was because the Year column was set to "short date", therefore it had to be converted to "general". 
 	
-	![img_2](https://github.com/jmasurovsky/kickstarter-analysis/blob/master/Resources/Years_challenge_example.png)
+![img_2](https://github.com/jmasurovsky/kickstarter-analysis/blob/master/Resources/Years_challenge_example.png)
 
 
 The challenge I had in Deliverable 2, was repetitive writing and editing the COUNTIFS() function for each different goal and outcome.  
@@ -40,6 +40,7 @@ The challenge I had in Deliverable 2, was repetitive writing and editing the COU
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 	1. Taking a look at the line chart below, successful theater campaigns peak in May remain at large number to July, while at the same time campaign outcomes that failed peak in May, as well. Although, in May, outcomes failed are at its highest count number of 52 failed, it is at a lower percentage at 31%, compared to failed outcomes in December, at 47%. Louise should plan to launch her play in May. The trend line for canceled theater shows remain consistent throughout, except for January which has the highest count and October, which contains no data.
+	
 	![img_3](https://github.com/jmasurovsky/kickstarter-analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 
@@ -47,6 +48,7 @@ The challenge I had in Deliverable 2, was repetitive writing and editing the COU
 - What can you conclude about the Outcomes based on Goals?
 
 	1. The line chart below shows trends for the most successful play Kickstarter campaign outcomes are based on fundraising goals of less than 1,000, from 1,000 to 4,999, 35,000 to 39,999, and 40,000 to 44,999. The least successful plays had a fundraising goal of 25,000 to 29,999, 30,000 to 34,999 45,000 to 49,999, and greater than 50,000.
+	
 	![img_4](https://github.com/jmasurovsky/kickstarter-analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 
